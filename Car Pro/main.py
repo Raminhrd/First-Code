@@ -20,7 +20,7 @@ while True:
             q = input("Name to find: ")
             manager.find_cars(q)
         case 4:
-            n = input('car name: ')
+            n = input('Car name: ')
             manager.delet_car(n)
         case 5:
             print("Bye!")
